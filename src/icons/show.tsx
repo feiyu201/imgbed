@@ -1,6 +1,6 @@
 import { ComponentProps, SVGProps } from 'react'
 
-export function hjy(props: SVGProps<SVGSVGElement>) {
+export function 欢聚云(props: SVGProps<SVGSVGElement>) {
   return (
     <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="84.000000pt" height="60.000000pt" viewBox="0 0 84.000000 60.000000"
