@@ -33,7 +33,7 @@ export function Header() {
             setTheme(v ? 'light' : 'dark')
           }}
         ></Switch>
-        <a href="https://github.com/xhofe/imgbed" target="_blank">
+        <a href="https://www.idc543.com" target="_blank">
           <Github className="text-[26px] text-primary-500" />
         </a>
       </div>
