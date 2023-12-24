@@ -34,7 +34,7 @@ export function Header() {
           }}
         ></Switch>
         <a href="https://www.idc543.com" target="_blank">
-          <Github className="text-[26px] text-primary-500" />
+          <欢聚云 className="text-[26px] text-primary-500" />
         </a>
       </div>
     </div>
